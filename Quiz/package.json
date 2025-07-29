@@ -1,0 +1,31 @@
+{
+  "name": "quiz-master",
+  "version": "1.0.0",
+  "description": "An interactive quiz website with multiple categories and beautiful UI",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/",
+    "dev": "live-server --port=3000 --open=/",
+    "build": "echo 'No build process needed - static files ready to deploy!'",
+    "deploy": "echo 'Ready to deploy! Upload files to your hosting provider.'"
+  },
+  "keywords": [
+    "quiz",
+    "education",
+    "interactive",
+    "javascript",
+    "html",
+    "css",
+    "web-app"
+  ],
+  "author": "Quiz Master Team",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayavijit26/quiz-master.git"
+  },
+  "homepage": "https://github.com/rayavijit26.io/quiz-master"
+} 
